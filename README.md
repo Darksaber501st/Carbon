@@ -1,5 +1,5 @@
 ## Carbon
-#A fun little satellite-image processing app#
+*A fun little satellite-image processing app*
 
 A web application for assessing green-vegetation change (i.e., change in Normalized Difference Vegetation Index or "NDVI") over user-selected geographic areas through analyzing satellite imagery data from NASA's MODIS instrument. 
 
